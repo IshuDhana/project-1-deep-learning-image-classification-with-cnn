@@ -35,7 +35,7 @@ model_paths = {
     "Roland Baseline": "best_baseline.h5",
     "Roland VGG16_Transfer": "models/vgg16_transfer.h5",
     "Ralitza Model": "ralitza_m1.h5",
-    "Ishu CNN": "ishu_project_2_cifar10_cnn_model.keras.h5"
+    "Ishu CNN": "ishu_cnn_cifar10_model.h5"
 }
 
 
